@@ -1,5 +1,5 @@
 # nth-degree-polynomial-equation
-Search for a numerical solution of a nth degree polynomial given on the interval.
+Search for a numerical solution of a nth degree polynomial equation given on the interval.
 
 With сombined method of chords and tangents.
 
