@@ -1,9 +1,19 @@
 # nth-degree-polynomial-equation
-Search for a numerical solution of a nth degree polynomial equation given on the interval.
+finding a numerical solution of a polynomial equation of the nth degree given on the interval.
 
-With сombined method of chords and tangents.
+with a combined method of chords and tangents.
 
-User can set coefficients of polynomial in variable "polynom".
-And also set interval for search in variable "limits".
+the user can set the coefficients of the polynomial in the code, in the variable "polynomial" 
+
+and also set the interval for searching in the variable "limits".
 
 In case the graph doesn't intersect with the abscissa axis the script will be terminated.
+
+## install requirements
+```
+sudo apt-get install lua
+```
+## run
+```
+lua main.lua
+```
